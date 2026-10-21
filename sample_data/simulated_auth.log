@@ -1,0 +1,14 @@
+Linux Syslog HIDS Simulation Started...
+sudo: pam_unix(sudo:auth): authentication failure; logname=analyst uid=1000 euid=0 tty=/dev/pts/1
+sudo: analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/su
+sshd[2048]: Failed password for invalid user admin from 10.0.0.50 port 53211 ssh2
+sudo: analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/su
+sshd[2048]: Failed password for invalid user admin from 10.0.0.21 port 53211 ssh2
+sshd[1024]: Failed password for root from 192.168.1.49 port 42312 ssh2
+sshd[1024]: Failed password for root from 192.168.1.11 port 42312 ssh2
+sudo: analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/su
+sudo: analyst : TTY=pts/1 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/su
+sshd[2048]: Failed password for invalid user admin from 10.0.0.49 port 53211 ssh2
+sudo: pam_unix(sudo:auth): authentication failure; logname=analyst uid=1000 euid=0 tty=/dev/pts/1
+sudo: pam_unix(sudo:auth): authentication failure; logname=analyst uid=1000 euid=0 tty=/dev/pts/1
+sshd[1024]: Failed password for root from 192.168.1.16 port 42312 ssh2

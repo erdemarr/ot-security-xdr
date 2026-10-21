@@ -1,0 +1,49 @@
+﻿Kayıt No;Tarih & Saat;Olay Detayı;Durum
+1;2026-07-31 00:30:21;Üretim bandı ağ trafiği kontrol edildi.;Güvenli
+2;2026-07-31 00:32:00;Üretim bandı sensör verisi başarıyla alındı.;Güvenli
+3;2026-07-31 00:32:04;Üretim bandı sensör verisi başarıyla alındı.;Güvenli
+4;2026-07-31 00:32:06;Soğutma sistemi sıcaklık değeri normal.;Güvenli
+5;2026-07-31 00:32:12;Soğutma sistemi sıcaklık değeri normal.;Güvenli
+6;2026-07-31 00:32:16;Modbus ağında anormal paket boyutu tespit edildi.;Tehdit Algılandı
+7;2026-07-31 00:32:20;Soğutma sistemi sıcaklık değeri normal.;Güvenli
+8;2026-07-31 00:32:23;Üretim bandı sensör verisi başarıyla alındı.;Güvenli
+9;2026-07-31 00:33:45;Modbus Register'a izinsiz 'Yazma' (Write) denemesi!;Engellendi
+10;2026-07-31 00:33:47;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+11;2026-07-31 00:33:49;Modbus Register'a izinsiz 'Yazma' (Write) denemesi!;Engellendi
+12;2026-07-31 00:33:51;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+13;2026-07-31 00:33:53;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+14;2026-07-31 00:33:55;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+15;2026-07-31 00:33:57;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+16;2026-07-31 00:33:59;Modbus Register'a izinsiz 'Yazma' (Write) denemesi!;Engellendi
+17;2026-07-31 00:34:01;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+18;2026-07-31 00:34:03;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+19;2026-07-31 00:34:05;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+20;2026-07-31 00:34:07;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+21;2026-07-31 00:34:09;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+22;2026-07-31 00:34:11;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+23;2026-07-31 00:34:13;Modbus Register'a izinsiz 'Yazma' (Write) denemesi!;Engellendi
+24;2026-07-31 00:34:15;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+25;2026-07-31 00:34:17;SCADA Sunucusuna Rusya IP'sinden RDP (Uzak Masaüstü) denemesi.;Engellendi
+26;2026-07-31 00:36:07;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+27;2026-07-31 00:36:09;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+28;2026-07-31 00:36:11;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+29;2026-07-31 00:36:13;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+30;2026-07-31 00:36:15;Ağ trafiğinde DNP3 protokolü anomalisine rastlandı.;Tehdit Algılandı
+31;2026-07-31 00:36:17;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+32;2026-07-31 00:36:19;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+33;2026-07-31 00:38:17;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+34;2026-07-31 00:38:19;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+35;2026-07-31 00:38:21;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+36;2026-07-31 00:38:23;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+37;2026-07-31 00:38:25;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+38;2026-07-31 00:38:27;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+39;2026-07-31 00:38:29;Ağ trafiğinde DNP3 protokolü anomalisine rastlandı.;Tehdit Algılandı
+40;2026-07-31 00:38:30;SİSTEM SAVUNMASI AKTİF: 5 adet kritik bağlantı Firewall üzerinden düşürüldü.;Sistem Aksiyonu
+41;2026-07-31 00:38:31;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+42;2026-07-31 00:38:33;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+43;2026-07-31 00:38:35;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+44;2026-07-31 00:38:37;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+45;2026-07-31 00:38:39;Sensör Verisi (ID:409) başarıyla PLC'ye iletildi.;Güvenli
+46;2026-07-31 00:38:41;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+47;2026-07-31 00:38:43;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli
+48;2026-07-31 00:38:45;Fabrika Ana Kapı RFID okuyucu yetki kontrolü normal.;Güvenli

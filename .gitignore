@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+# Runtime artifacts (generated locally, never commit)
+*.db
+*.sqlite3
+simule_auth.log
+Guvenlik_Raporu_*.csv
+Merkezi_SIEM_Raporu_*.csv
