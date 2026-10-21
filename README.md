@@ -81,12 +81,13 @@ python dashboard.py   # 3) live dashboard
 
 ## Screenshots
 
-Add your own images to `docs/screenshots/` and reference them here, for example:
+**Live dashboard: all events (network, host, SOAR)**
 
-```markdown
-![Edge sensor](docs/screenshots/edge_sensor.png)
-![Central SIEM](docs/screenshots/central_siem.png)
-```
+![Overview](docs/screenshots/00-overview.png)
+
+**Alerts view: critical host alerts and simulated SOAR responses**
+
+![Alerts](docs/screenshots/04-alerts-combined.png)
 
 ## Known limitations & roadmap
 
